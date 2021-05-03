@@ -1,5 +1,4 @@
-# obstacle-avoid
-Monocular vision based obstacle avoidance for mobile robots
+#Monocular vision based obstacle avoidance for mobile robots
 
 This code includes a practical implementation of conceptual methods for obstacle avoidance, based on monocular vision with off-board processing and teleoperated control.
 
